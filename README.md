@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://quizizz.com/media/resource/gs/quizizz-media/quizzes/53757c0c-ab17-40d8-ad45-613fe1fb1ce8?w=90&h=90" alt="Algorithms" />
+  <img src="https://w7.pngwing.com/pngs/233/675/png-transparent-machine-learning-information-brain-mind-silhouette-algorithm-thought-circuit-cell-chip.png" width= 200px alt="Algorithms" />
 
 &#xa0;
 
@@ -16,6 +16,8 @@
 <hr>
 
 <p align="center">
+
+Estou atualizando aos poucos, mas sinta se a vontade para estudar também.
 
 Os desafios se encontram em:
 https://www.hackerrank.com/domains/
